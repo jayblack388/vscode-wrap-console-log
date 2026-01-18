@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/jayblack388/vscode-wrap-console-log/compare/v1.7.3...v2.0.0) (2026-01-18)
+
+
+### ⚠ BREAKING CHANGES
+
+* Settings default to empty strings and use language defaults. Existing custom logFunctionName/logString settings continue to work as overrides.
+
+### Features
+
+* fork with language-aware logging and Open VSX publishing ([5ba6988](https://github.com/jayblack388/vscode-wrap-console-log/commit/5ba698860e3138f5fd0a559674f66c9a679bc6f9))
+
 ## [2.0.0](https://github.com/jayblack388/vscode-wrap-console-log/releases/tag/v2.0.0) (2024-01-17)
 
 ### Features
