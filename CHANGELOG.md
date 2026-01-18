@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.7.4](https://github.com/jayblack388/vscode-wrap-console-log/compare/v1.7.3...v1.7.4) (2026-01-18)
+
+
+### Bug Fixes
+
+* set the manifest version correctly ([02711da](https://github.com/jayblack388/vscode-wrap-console-log/commit/02711da121543f006a95b38ec8415b9dcf682709))
+
 ## [2.0.0](https://github.com/jayblack388/vscode-wrap-console-log/releases/tag/v2.0.0) (2024-01-17)
 
 ### Features
