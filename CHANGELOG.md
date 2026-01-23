@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.2](https://github.com/jayblack388/vscode-wrap-console-log/compare/v2.0.1...v2.0.2) (2026-01-23)
+
+
+### Bug Fixes
+
+* **docs:** Update README ([6b0c4cc](https://github.com/jayblack388/vscode-wrap-console-log/commit/6b0c4cc67faa58b03fddc4e74b2d540674d6fbf4))
+
 ## [2.0.1](https://github.com/jayblack388/vscode-wrap-console-log/compare/v2.0.0...v2.0.1) (2026-01-23)
 
 

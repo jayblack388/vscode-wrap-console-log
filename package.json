@@ -2,7 +2,7 @@
   "name": "vscode-wrap-console-log",
   "displayName": "Wrap Console Log",
   "description": "Wrap to console.log by word or selection - with automatic language detection (print for Python, fmt.Println for Go, etc.)",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "publisher": "jayblack388",
   "license": "MIT",
   "icon": "images/icon.png",
