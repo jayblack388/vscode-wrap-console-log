@@ -174,62 +174,62 @@
     "keybindings": [
       {
         "command": "console.log.wrap",
-        "key": "ctrl+alt+w w",
-        "when": "editorTextFocus"
-      },
-      {
-        "command": "console.log.wrap.string",
-        "key": "alt+shift+w w",
-        "when": "editorTextFocus"
-      },
-      {
-        "command": "console.log.wrap.string.down",
-        "key": "alt+shift+w down",
-        "when": "editorTextFocus"
-      },
-      {
-        "command": "console.log.wrap.string.up",
-        "key": "alt+shift+w up",
+        "key": "cmd+alt+ctrl+l",
         "when": "editorTextFocus"
       },
       {
         "command": "console.log.wrap.down",
-        "key": "ctrl+alt+w down",
+        "key": "cmd+alt+ctrl+down",
         "when": "editorTextFocus"
       },
       {
         "command": "console.log.wrap.up",
-        "key": "ctrl+alt+w up",
+        "key": "cmd+alt+ctrl+up",
         "when": "editorTextFocus"
       },
       {
         "command": "console.log.wrap.prefix",
-        "key": "ctrl+alt+w ctrl+alt+w",
-        "when": "editorTextFocus"
-      },
-      {
-        "command": "console.log.wrap.input",
-        "key": "ctrl+shift+alt+w w",
+        "key": "cmd+alt+ctrl+p",
         "when": "editorTextFocus"
       },
       {
         "command": "console.log.wrap.down.prefix",
-        "key": "ctrl+alt+w ctrl+alt+down",
+        "key": "cmd+alt+ctrl+shift+down",
         "when": "editorTextFocus"
       },
       {
         "command": "console.log.wrap.up.prefix",
-        "key": "ctrl+alt+w ctrl+alt+up",
+        "key": "cmd+alt+ctrl+shift+up",
+        "when": "editorTextFocus"
+      },
+      {
+        "command": "console.log.wrap.input",
+        "key": "cmd+alt+ctrl+i",
         "when": "editorTextFocus"
       },
       {
         "command": "console.log.wrap.down.input",
-        "key": "ctrl+shift+alt+w down",
+        "key": "cmd+alt+ctrl+shift+d",
         "when": "editorTextFocus"
       },
       {
         "command": "console.log.wrap.up.input",
-        "key": "ctrl+shift+alt+w up",
+        "key": "cmd+alt+ctrl+shift+u",
+        "when": "editorTextFocus"
+      },
+      {
+        "command": "console.log.wrap.string",
+        "key": "cmd+alt+ctrl+s",
+        "when": "editorTextFocus"
+      },
+      {
+        "command": "console.log.wrap.string.down",
+        "key": "cmd+alt+ctrl+shift+s",
+        "when": "editorTextFocus"
+      },
+      {
+        "command": "console.log.wrap.string.up",
+        "key": "cmd+alt+ctrl+shift+a",
         "when": "editorTextFocus"
       }
     ]
