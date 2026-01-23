@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.0.1](https://github.com/jayblack388/vscode-wrap-console-log/compare/v2.0.0...v2.0.1) (2026-01-23)
+
+
+### Bug Fixes
+
+* update default keybindings ([7508227](https://github.com/jayblack388/vscode-wrap-console-log/commit/7508227014b96cf80e34e3db48afda7f535299c7))
+* Update version correctly ([b257c45](https://github.com/jayblack388/vscode-wrap-console-log/commit/b257c4581506eb96689c7df2a7e3548212d397e2))
+
 ## [2.0.0](https://github.com/jayblack388/vscode-wrap-console-log/compare/v1.7.3...v2.0.0) (2026-01-18)
 
 
