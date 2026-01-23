@@ -55,47 +55,41 @@ Wrap the word near your cursor as an argument for logging functions. **Now with 
 
 ## Keyboard Shortcuts
 
-The fastest way to log your variables! Type it and press `Ctrl+Alt+W` + `W`.
+All shortcuts use **Cmd+Option+Ctrl** as the base modifier (macOS).
 
-### Log as string
-*Replace the word on your cursor or the selected text*
+### Core Commands
 
-- `Alt+Shift+W` + `W`
+| Action | Shortcut | Description |
+|--------|----------|-------------|
+| Wrap | `Cmd+Option+Ctrl+L` | Replace word at cursor with log |
+| Wrap down | `Cmd+Option+Ctrl+Down` | Insert log on line below |
+| Wrap up | `Cmd+Option+Ctrl+Up` | Insert log on line above |
 
-> Note: If the string contains spaces, select the whole string first
+### With Prefix
 
----
+| Action | Shortcut | Description |
+|--------|----------|-------------|
+| Prefix | `Cmd+Option+Ctrl+P` | Log with variable name as label |
+| Prefix down | `Cmd+Option+Ctrl+Shift+Down` | Insert prefixed log below |
+| Prefix up | `Cmd+Option+Ctrl+Shift+Up` | Insert prefixed log above |
 
-### Log on current line
-*Replace the variable at cursor*
+### With Input Box
 
-| Action | Shortcut |
-|--------|----------|
-| Wrap and replace | `Ctrl+Alt+W` + `W` |
-| With prefix | `Ctrl+Alt+W` + `Ctrl+Alt+W` |
-| With prefix (input box) | `Ctrl+Shift+Alt+W` + `Ctrl+Shift+Alt+W` |
+| Action | Shortcut | Description |
+|--------|----------|-------------|
+| Input | `Cmd+Option+Ctrl+I` | Log with custom prefix via input box |
+| Input down | `Cmd+Option+Ctrl+Shift+D` | Insert with input box below |
+| Input up | `Cmd+Option+Ctrl+Shift+U` | Insert with input box above |
 
----
+### Log as String
 
-### Insert down
-*Insert log on the line below*
+| Action | Shortcut | Description |
+|--------|----------|-------------|
+| String | `Cmd+Option+Ctrl+S` | Replace text with string log |
+| String down | `Cmd+Option+Ctrl+Shift+S` | Insert string log below |
+| String up | `Cmd+Option+Ctrl+Shift+A` | Insert string log above |
 
-| Action | Shortcut |
-|--------|----------|
-| Down | `Ctrl+Alt+W` + `Down` |
-| With prefix | `Ctrl+Alt+W` + `Ctrl+Alt+Down` |
-| With prefix (input box) | `Ctrl+Shift+Alt+W` + `Ctrl+Shift+Alt+Down` |
-
----
-
-### Insert up
-*Insert log on the line above*
-
-| Action | Shortcut |
-|--------|----------|
-| Up | `Ctrl+Alt+W` + `Up` |
-| With prefix | `Ctrl+Alt+W` + `Ctrl+Alt+Up` |
-| With prefix (input box) | `Ctrl+Shift+Alt+W` + `Ctrl+Shift+Alt+Up` |
+> **Note:** If the string contains spaces, select the whole string first.
 
 ## Configuration
 
